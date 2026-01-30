@@ -12,7 +12,7 @@ A simple, lightweight command-line tool to validate JSON files and check them ag
 
 ## Installation
 
-### Install from PyPI (when published)
+### Install from PyPI
 
 ```bash
 pip install jsonvalidator-cli
